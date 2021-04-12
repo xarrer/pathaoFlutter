@@ -1,0 +1,6 @@
+git init //initialise an emprty repository in the folder
+git add . //get files ready to add to the git repo
+git commit -m 'message'  //commit changes in each files
+git remote add origin <remote_url> //add repo url
+git remote -v //view repo
+git push origin master  // push to a new 'master' branch.
